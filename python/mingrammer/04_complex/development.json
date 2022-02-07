@@ -1,0 +1,10 @@
+{
+    "name": "MyDiagram (Development)",
+    "resources": {
+        "external_alb": "service-lb-https-21944124",
+        "workers": [
+            "dev1 (i-4032575)"
+        ],
+        "events_db": "enventsdb-dev-39401580"
+    }
+}

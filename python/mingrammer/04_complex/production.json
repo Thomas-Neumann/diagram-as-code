@@ -1,0 +1,12 @@
+{
+    "name": "MyDiagram (Production)",
+    "resources": {
+        "external_alb": "service-lb-https-34567323",
+        "workers": [
+            "prod1 (i-123456)",
+            "prod2 (i-437805)",
+            "prod3 (i-342850)"
+        ],
+        "events_db": "enventsdb-prod-54370457"
+    }
+}
