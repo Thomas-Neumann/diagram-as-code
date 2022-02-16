@@ -15,3 +15,7 @@ Possible applications for this:
 Candidate:
  - https://diagrams.mingrammer.com
    concept code in python/mingrammer/
+
+related links:
+ - https://alpha2phi.medium.com/code-based-diagramming-6b1bcc732aab
+   Code-based Diagramming
