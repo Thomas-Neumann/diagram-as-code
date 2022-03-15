@@ -15,7 +15,7 @@ Possible applications for this:
 Candidate:
  - https://diagrams.mingrammer.com
    concept code in python/mingrammer/
- - https://structurizr.org/
+ - https://structurizr.org/             [python library potentially broken]
    (multiple languages supported)
 
 related links:
