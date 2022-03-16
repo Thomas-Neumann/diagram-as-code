@@ -21,3 +21,5 @@ Candidate:
 related links:
  - https://alpha2phi.medium.com/code-based-diagramming-6b1bcc732aab
    Code-based Diagramming
+ - https://mermaid.ink/ (can be integrated into GitHub documentation; different use case, did not pursue further)
+ - draw.io (online editor, did not pursue further)
